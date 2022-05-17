@@ -1,24 +1,24 @@
 <p align="center">
-	:wave: <strong>About Me</strong> :wave:
+        :wave: <strong>About Me</strong> :wave:
 </p>
 
 <p align="center">
-	<i>**I am currently exploring job opportunities in the areas of data science and/or machine learning.** </i>
+	<i><b>I am currently exploring job opportunities in the areas of data science and/or machine learning.</b></i>
 </p>
 
 With the two imperative ingredients, passion and competence, I am confident that I can formulate the utmost recipe for becoming a successful data scientist or a machine learning engineer.
 
 **My professional passions:**
 
-:ballot_box_with_check: • Facilitate data-informed business decisions and strategy-making
-
-:ballot_box_with_check: • Automate business processes
-
-:ballot_box_with_check:	• Programming and coding
-
-:ballot_box_with_check:	• Numbers, qualitative data, and statistics
-
-:ballot_box_with_check:	• Lifelong learning
+:ballot_box_with_check: Facilitate data-informed business decisions and strategy-making
+    
+:ballot_box_with_check: Automate business processes
+    
+:ballot_box_with_check: Programming and coding
+    
+:ballot_box_with_check: Numbers, qualitative data, and statistics
+    
+:ballot_box_with_check: Lifelong learning
 
 **My professional competences:**
 
