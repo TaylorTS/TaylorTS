@@ -10,11 +10,15 @@ With the two imperative ingredients, passion and competence, I am confident that
 
 **My professional passions:**
 
-:ballot_box_with_check: Facilitate data-informed business decisions and strategy-making <br>
-:ballot_box_with_check: Automate business processes <br>
-:ballot_box_with_check: Programming and coding <br>
-:ballot_box_with_check: Numbers, qualitative data, and statistics <br>
-:ballot_box_with_check: Lifelong learning <br>
+:ballot_box_with_check: Facilitate data-informed business decisions and strategy-making
+
+:ballot_box_with_check: Automate business processes
+
+:ballot_box_with_check: Programming and coding
+
+:ballot_box_with_check: Numbers, qualitative data, and statistics
+
+:ballot_box_with_check: Lifelong learning
 
 **My professional competences:**
 
