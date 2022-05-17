@@ -6,7 +6,7 @@
 	<i><b>I am currently exploring job opportunities in the areas of data science and/or machine learning.</b></i>
 </p>
 
-With the two imperative ingredients, passion and competence, I am confident that I can formulate the utmost recipe for becoming a successful data scientist or a machine learning engineer.
+With the two imperative ingredients, passion and competence, I am confident that I can formulate the utmost recipe for becoming a successful data scientist or a machine learning engineer.:bar_chart:
 
 **My professional passions:**
 
