@@ -34,11 +34,11 @@ With the two imperative ingredients, passion and competence, I am confident that
 
  	• Strengths
 	    o Effective communication:
-		     Presenting to internal and external stakeholders
-		     Active listening
+		Presenting to internal and external stakeholders
+		Active listening
 	    o Efficient leadership:
-		     Independent problem solving
-		     Collaboration with others toward a shared goal
+		Independent problem solving
+		Collaboration with others toward a shared goal
 	    o Other attributes:
-         	     Meticulous and methodical
-		     Empathetic
+         	Meticulous and methodical
+		Empathetic
