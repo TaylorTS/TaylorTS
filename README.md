@@ -6,7 +6,9 @@
 	<i><b>I am currently exploring job opportunities in the areas of data analytics and/or data science.</b></i>
 </p>
 
+<p align="center">
 As a data enthusiast, I am passionate about leveraging data to find insightful solutions that faciliate business decisions. 
+</p>
 
 **My professional passions:**
 
