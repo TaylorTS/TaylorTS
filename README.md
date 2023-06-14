@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-	<i><b>I am currently exploring job opportunities in the areas of data science and/or machine learning.</b></i>
+	<i><b>I am currently exploring job opportunities in the areas of data analytics and/or data science.</b></i>
 </p>
 
-With the two imperative ingredients, passion and competence, I am confident that I can formulate the utmost recipe for becoming a successful data scientist or a machine learning engineer.:bar_chart:
+As a data enthusiast, I am passionate about leveraging data to find insightful solutions that faciliate business decisions. 
 
 **My professional passions:**
 
-:office: Facilitate data-informed business decisions and strategy-making
+:office: Drive data-informed business decisions and strategy development
 
 :file_folder: Automate business processes
 
@@ -20,7 +20,7 @@ With the two imperative ingredients, passion and competence, I am confident that
 
 :books: Lifelong learning
 
-**My professional competences:**
+**My professional competencies:**
 
  	• Technical skills
 	    o Statistical methods for machine learning
