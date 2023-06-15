@@ -25,10 +25,10 @@ As a data enthusiast, I am passionate about leveraging data to find insightful s
 **My professional competencies:**
 
  	• Technical skills
-	    o Statistical methods for machine learning
+	    o Programming Languages — Python, MySQL 
 	    o Data visualization — Tableau, Microsoft Power BI
-	    o Programming and coding — Python, MySQL
-	    o Python packages — NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow
+	    o Statistical methods for machine learning
+	    o Python packages — NumPy, Pandas, matplotlib, seaborn, scikit-learn, TensorFlow, Keras, TextBlob, NLTK
 
  	• Certificates of completion
 	    o Python for Data Science and Machine Learning Bootcamp (Udemy)
