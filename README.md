@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<i><b>I am currently exploring job opportunities in the areas of data analytics and/or data science.</b></i>
+	<i><b>I am currently exploring job opportunities within the space of data analytics.</b></i>
 </p>
 
 <p align="center">
