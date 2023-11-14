@@ -25,7 +25,7 @@ As a data enthusiast, I am passionate about leveraging data to find insightful s
 **My professional competencies:**
 
  	• Technical skills
-	    o Programming Languages — Python, MySQL 
+	    o Programming and Query Languages — Python, MySQL, R
 	    o Data visualization — Tableau, Microsoft Power BI
 	    o Statistical methods for machine learning
 	    o Python packages — NumPy, Pandas, matplotlib, seaborn, scikit-learn, TensorFlow, Keras, TextBlob, NLTK
