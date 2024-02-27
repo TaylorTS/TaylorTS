@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-	<i><b>I am currently exploring job opportunities within the space of data analytics.</b></i>
+	<i><b>With the two imperative ingredients, passion and competence, I am confident that I can formulate the utmost recipe for becoming a successful data professional 📊</b></i>
 </p>
 
 <p align="center">
